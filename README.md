@@ -1,3 +1,19 @@
+# Above code you can see live there:
+
+https://admin-app-dashboard.netlify.app/
+
+# Admin App Dashboard
+
+Technology used:
+React, MUI and various of helpfull packages like fullcalendar, nivo charts, formik or yup
+
+# Description
+
+This is presentation of Admin Dashboard which can be made with React, it display various charts and stats based on dummy values (they can be changed to any database within no-time)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
